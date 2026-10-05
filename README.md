@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d8a3e,100:1a1a2e&height=120&section=header"/>
+</p>
+
 <div align="center">
 
 ```
@@ -33,4 +37,8 @@
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=arthoou&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthoou&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:2d8a3e&height=100&section=footer"/>
 </p>
