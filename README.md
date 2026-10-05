@@ -33,22 +33,14 @@
 
 ### Languages & Tools
 
-<table align="center">
-<tr>
-<td align="center">Operating systems<br><br><img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" /></td>
-<td width="60"></td>
-<td align="center">Tools<br><br><img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" /></td>
-</tr>
-</table>
-
-Markup
+Operating systems & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=windows,linux,git,vscode&theme=dark" />
 </p>
 
-Programming languages
+Markup & Programming languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,js,ts,mysql&theme=dark" height="58" />
+<img src="https://skillicons.dev/icons?i=html,css,java,kotlin,cs,python,js,ts,mysql&theme=dark" height="58" />
 </p>
 
 AI
