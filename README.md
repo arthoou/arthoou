@@ -1,42 +1,42 @@
-<h1 align="center">Hi, I'm Arthur 👋</h1>
-
 <p align="center">
-  <em>Building games, launchers, and the weird glue code between them.</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d8a3e,100:1a1a2e&height=120&section=header"/>
 </p>
 
+<pre align="center">
+    ___    ____  ________  ______  __  __
+   /   |  / __ \/_  __/ / / / __ \/ / / /
+  / /| | / /_/ / / / / /_/ / / / / / / /
+ / ___ |/ _, _/ / / / __  / /_/ / /_/ /
+/_/  |_/_/ |_| /_/ /_/ /_/\____/\____/
+</pre>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Minecraft%20Modding-Forge%20%26%20NeoForge-2d8a3e?logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-WPF%20%26%20Photino-512bd4?logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-GNOME%20Wayland-4a86cf?logo=linux&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Minecraft+modder+%E2%9B%8F%EF%B8%8F;Forge+%26+NeoForge+tinkerer;Building+launchers+%26+weird+glue+code;Linux+%2F+GNOME+enjoyer+%F0%9F%90%A7&font=Fira+Code&center=true&width=500&height=40&color=2d8a3e&vCenter=true&size=20"/>
 </p>
 
 ---
 
-### 🔧 What I'm into
+### 🧩 About me
 
-- 🧩 **Minecraft modding** — Forge & NeoForge mods (chat/visual overhauls, custom multiplayer experiences, world generation)
-- 🖥️ **Desktop apps** — custom Minecraft launchers and tools built with .NET / WPF
-- 🐧 **Linux customization** — GNOME 48 / Wayland tweaks, Dash to Dock extensions, desktop polish
-- 🛠️ **Build systems & tooling** — Gradle, Java toolchains, cross-platform build quirks
+- ⛏️ I build **Minecraft mods** (Forge & NeoForge) — custom translation, chat, visuals, you name it
+- 🖥️ I build the **tools around the game** — launchers, desktop apps, the glue nobody sees
+- 🐧 Daily driver is **Linux** — GNOME, Wayland, and way too much time tweaking the dock
+- 🔥 Mindset: if it's broken, open the hex editor before giving up
 
-### 🧰 Tech Stack
+### 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,html,css,js,ts,mysql,linux,git,gradle&theme=dark" />
 </p>
 
 ### 🎮 Featured Projects
 
-| Project | Description |
-|---|---|
-| **NEXEL** | Minecraft mod suite (Forge & NeoForge) with custom translation/chat features |
-| **DUSMP Launcher** | Cross-platform Minecraft launcher — .NET 8 + Photino + CmlLib |
+<table align="center">
+  <tr>
+    <td align="center">⛏️<br><b>NEXEL</b><br><sub>Minecraft mod suite (Forge & NeoForge)<br>with custom translation/chat features</sub></td>
+    <td align="center">🚀<br><b>DUSMP Launcher</b><br><sub>Cross-platform Minecraft launcher<br>.NET 8 + Photino + CmlLib</sub></td>
+  </tr>
+</table>
 
 ### 📊 GitHub Stats
 
@@ -52,5 +52,9 @@
 ---
 
 <p align="center">
-  <em>Always tinkering with something — probably a mod, a launcher, or my desktop setup.</em>
+  <em>🐧 Powered by Linux, caffeine, and one too many Minecraft rebuild cycles.</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:2d8a3e&height=100&section=footer"/>
 </p>
