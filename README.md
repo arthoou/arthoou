@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/cinnamoroll.gif" width="200" alt="Cinnamoroll" />
+  <img src="assets/cinnamoroll-wave.gif" width="200" alt="Cinnamoroll" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
   <a href="https://www.youtube.com/@arthoou"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 
-### <img src="assets/cinnamoroll.gif" width="26" align="absmiddle" /> About
+### <img src="assets/cinnamoroll-shy.gif" width="26" align="absmiddle" /> About
 
 - <img src="https://flagcdn.com/20x15/br.png" alt="Brazil" /> He/him, from Brazil
 - Minecraft modder — Forge and NeoForge
@@ -36,7 +36,7 @@
 - Daily setup: GNOME (Linux) and Windows 11
 - <!--AGE_START-->14<!--AGE_END--> years old
 
-### Languages & Tools <img src="assets/cinnamoroll.gif" width="26" align="absmiddle" />
+### Languages & Tools <img src="assets/cinnamoroll-peek.webp" width="26" align="absmiddle" />
 
 Operating systems & Tools
 <p align="center">
@@ -55,12 +55,12 @@ AI
 <img src="assets/hermes-logo.png" alt="Hermes" height="64" />
 </p>
 
-### <img src="assets/cinnamoroll.gif" width="26" align="absmiddle" /> Projects
+### <img src="assets/cinnamoroll-flipflap.gif" width="26" align="absmiddle" /> Projects
 
 - DUSMP — public multilingual Minecraft server · [site](https://www.dusmp.online) · [Discord](https://discord.gg/TeTca3wKZh)
 - NEXEL — Minecraft mod suite (Forge, NeoForge), custom translation and chat · [site](https://nexel.site)
 
-### GitHub Stats <img src="assets/cinnamoroll.gif" width="26" align="absmiddle" />
+### GitHub Stats <img src="assets/cinnamoroll-sleepy.webp" width="26" align="absmiddle" />
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=arthoou&show_icons=true&hide_border=true&bg_color=1a1626&title_color=ff9fb8&icon_color=ff9fb8&text_color=ffe3ea" />
