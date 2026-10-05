@@ -5,11 +5,12 @@
 <div align="center">
 
 ```
-    ___    ____  ________  ______  __  __
-   /   |  / __ \/_  __/ / / / __ \/ / / /
-  / /| | / /_/ / / / / /_/ / / / / / / /
- / ___ |/ _, _/ / / / __  / /_/ / /_/ /
-/_/  |_/_/ |_| /_/ /_/ /_/\____/\____/
+          _____ _______ _    _  ____  _    _
+    /\   |  __ \__   __| |  | |/ __ \| |  | |
+   /  \  | |__) | | |  | |__| | |  | | |  | |
+  / /\ \ |  _  /  | |  |  __  | |  | | |  | |
+ / ____ \| | \ \  | |  | |  | | |__| | |__| |
+/_/    \_\_|  \_\ |_|  |_|  |_|\____/ \____/
 ```
 
 </div>
@@ -45,9 +46,9 @@ Programming languages
 
 AI
 <p align="center">
-<img src="assets/chatgpt-badge.svg" alt="ChatGPT" />
+<img src="assets/chatgpt-logo.jpg" alt="ChatGPT" height="40" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-<img src="https://img.shields.io/badge/Hermes-6E56CF?style=for-the-badge&logoColor=white" />
+<img src="assets/hermes-logo.png" alt="Hermes" height="40" />
 </p>
 
 ### Projects
