@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/arthoou/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/arthouuu/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.tiktok.com/@arthou"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-  <a href="https://www.youtube.com"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.youtube.com/@arthoou"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 
 ### About
@@ -33,13 +33,10 @@
 
 ### Languages & Tools
 
-Operating systems
+Operating systems &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" />
-</p>
-
-Tools
-<p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" />
 </p>
 
@@ -50,7 +47,7 @@ Markup
 
 Programming languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,js,ts,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,js,ts,mysql&theme=dark" height="58" />
 </p>
 
 AI
@@ -58,6 +55,12 @@ AI
 <img src="assets/chatgpt-logo.jpg" alt="ChatGPT" height="64" />
 <img src="assets/claude-logo.webp" alt="Claude" height="64" />
 <img src="assets/hermes-logo.png" alt="Hermes" height="64" />
+</p>
+
+### Telemetry
+
+<p align="center">
+<img src="assets/telemetry.svg" width="97%" alt="Telemetry" />
 </p>
 
 ### Projects
