@@ -33,10 +33,10 @@
 
 ### Languages & Tools
 
-Operating systems &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tools
+Operating systems &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" />
 </p>
 
@@ -55,12 +55,6 @@ AI
 <img src="assets/chatgpt-logo.jpg" alt="ChatGPT" height="64" />
 <img src="assets/claude-logo.webp" alt="Claude" height="64" />
 <img src="assets/hermes-logo.png" alt="Hermes" height="64" />
-</p>
-
-### Telemetry
-
-<p align="center">
-<img src="assets/telemetry.svg" width="97%" alt="Telemetry" />
 </p>
 
 ### Projects
