@@ -33,12 +33,13 @@
 
 ### Languages & Tools
 
-Operating systems &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" />
-</p>
+<table align="center">
+<tr>
+<td align="center">Operating systems<br><br><img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" /></td>
+<td width="60"></td>
+<td align="center">Tools<br><br><img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" /></td>
+</tr>
+</table>
 
 Markup
 <p align="center">
