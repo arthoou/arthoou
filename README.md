@@ -46,9 +46,9 @@ Programming languages
 
 AI
 <p align="center">
-<img src="assets/chatgpt-logo.jpg" alt="ChatGPT" height="40" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-<img src="assets/hermes-logo.png" alt="Hermes" height="40" />
+<img src="assets/chatgpt-logo.jpg" alt="ChatGPT" height="64" />
+<img src="assets/claude-logo.webp" alt="Claude" height="64" />
+<img src="assets/hermes-logo.png" alt="Hermes" height="64" />
 </p>
 
 ### Projects
