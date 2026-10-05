@@ -16,7 +16,7 @@
 ### Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,html,css,js,ts,mysql,linux,git,gradle&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,html,css,js,ts,mysql,linux,windows,git,gradle&theme=dark" />
 </p>
 
 ### Projects
