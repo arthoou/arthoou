@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9fb8,100:ffd6e0&height=120&section=header"/>
 </p>
 
+<p align="left">
+  <img src="assets/cinnamoroll.gif" width="46" alt="" />
+</p>
+
 <div align="center">
 
 ```
@@ -32,14 +36,14 @@
   <a href="https://www.youtube.com/@arthoou"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 
-### About
+### <img src="assets/cinnamoroll.gif" width="26" align="absmiddle" /> About
 
 - Minecraft modder — Forge and NeoForge
 - Build launchers and desktop tools for the game
 - Daily setup: GNOME (Linux) and Windows 11
 - <!--AGE_START-->14<!--AGE_END--> years old
 
-### Languages & Tools
+### Languages & Tools <img src="assets/cinnamoroll.gif" width="26" align="absmiddle" />
 
 Operating systems & Tools
 <p align="center">
@@ -58,12 +62,12 @@ AI
 <img src="assets/hermes-logo.png" alt="Hermes" height="64" />
 </p>
 
-### Projects
+### <img src="assets/cinnamoroll.gif" width="26" align="absmiddle" /> Projects
 
 - DUSMP — public multilingual Minecraft server · [site](https://www.dusmp.online) · [Discord](https://discord.gg/TeTca3wKZh)
 - NEXEL — Minecraft mod suite (Forge, NeoForge), custom translation and chat · [site](https://nexel.site)
 
-### GitHub Stats
+### GitHub Stats <img src="assets/cinnamoroll.gif" width="26" align="absmiddle" />
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=arthoou&show_icons=true&hide_border=true&bg_color=1a1626&title_color=ff9fb8&icon_color=ff9fb8&text_color=ffe3ea" />
@@ -72,6 +76,10 @@ AI
 
 <p align="center">
   <img src="assets/flower-divider.svg" width="80%" alt="" />
+</p>
+
+<p align="right">
+  <img src="assets/cinnamoroll.gif" width="46" alt="" />
 </p>
 
 <p align="center">
