@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9fb8,100:ffd6e0&height=120&section=header"/>
 </p>
 
-<p align="left">
-  <img src="assets/cinnamoroll.gif" width="46" alt="" />
-</p>
-
 <div align="center">
 
 ```
@@ -17,10 +13,6 @@
 ```
 
 </div>
-
-<p align="center">
-  <img src="assets/flower-divider.svg" width="80%" alt="" />
-</p>
 
 <p align="center">
   <img src="assets/cinnamoroll.gif" width="200" alt="Cinnamoroll" />
