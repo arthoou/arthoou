@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3e8a,100:1a1a2e&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9fb8,100:ffd6e0&height=120&section=header"/>
 </p>
 
 <div align="center">
@@ -15,7 +15,15 @@
 </div>
 
 <p align="center">
+  <img src="assets/flower-divider.svg" width="80%" alt="" />
+</p>
+
+<p align="center">
   <img src="assets/cinnamoroll.gif" width="200" alt="Cinnamoroll" />
+</p>
+
+<p align="center">
+  <img src="assets/flower-divider.svg" width="80%" alt="" />
 </p>
 
 <p align="center">
@@ -58,10 +66,14 @@ AI
 ### GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arthoou&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthoou&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=arthoou&show_icons=true&hide_border=true&bg_color=1a1626&title_color=ff9fb8&icon_color=ff9fb8&text_color=ffe3ea" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthoou&layout=compact&hide_border=true&bg_color=1a1626&title_color=ff9fb8&text_color=ffe3ea" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:1a3e8a&height=100&section=footer"/>
+  <img src="assets/flower-divider.svg" width="80%" alt="" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e0,100:ff9fb8&height=100&section=footer"/>
 </p>
