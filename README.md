@@ -30,6 +30,7 @@
 
 ### <img src="assets/cinnamoroll.gif" width="26" align="absmiddle" /> About
 
+- <img src="https://flagcdn.com/20x15/br.png" alt="Brazil" /> He/him, from Brazil
 - Minecraft modder — Forge and NeoForge
 - Build launchers and desktop tools for the game
 - Daily setup: GNOME (Linux) and Windows 11
