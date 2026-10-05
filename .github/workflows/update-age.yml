@@ -1,0 +1,44 @@
+name: Update age
+
+on:
+  schedule:
+    - cron: "5 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compute age and update README
+        run: |
+          python3 - <<'EOF'
+          import re
+          from datetime import date
+
+          birth = date(2011, 11, 19)
+          today = date.today()
+          age = today.year - birth.year - ((today.month, today.day) < (birth.month, birth.day))
+
+          with open("README.md", "r") as f:
+              content = f.read()
+
+          new_content = re.sub(
+              r"(?s)(<!--AGE_START-->).*?(<!--AGE_END-->)",
+              rf"\g<1>{age}\g<2>",
+              content,
+          )
+
+          with open("README.md", "w") as f:
+              f.write(new_content)
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "Update age" && git push)
