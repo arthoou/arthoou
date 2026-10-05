@@ -45,8 +45,8 @@ Programming languages
 
 AI
 <p align="center">
-<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white" />
+<img src="assets/chatgpt-badge.svg" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 <img src="https://img.shields.io/badge/Hermes-6E56CF?style=for-the-badge&logoColor=white" />
 </p>
 
