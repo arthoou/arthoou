@@ -34,7 +34,7 @@
 - Minecraft modder — Forge and NeoForge
 - Build launchers and desktop tools for the game
 - Daily setup: GNOME (Linux) and Windows 11
-- <!--AGE_START-->14<!--AGE_END--> years old
+- <!--AGE_START-->15<!--AGE_END--> years old
 
 ### Languages & Tools <img src="assets/cinnamoroll-peek.webp" width="26" align="absmiddle" />
 
